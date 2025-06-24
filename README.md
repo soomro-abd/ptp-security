@@ -1,6 +1,6 @@
-# Exploiting OS Vulnerabilities to Disrupt IEEE 1588 Synchronization
+# Breaking Precision Time: OS Vulnerability Exploits Against IEEE 1588
 
-This repository contains the artifacts for the paper **"Exploiting OS Vulnerabilities to Disrupt IEEE 1588 Synchronization"**.
+This repository contains the artifacts for the paper **"Breaking Precision Time: OS Vulnerability Exploits Against IEEE 1588"**.
 
 ## Overview
 
